@@ -1,0 +1,29 @@
+.title-details h2 {
+    font-size: 1rem;
+    color: black;
+    padding-left: 0.5rem;
+    margin-bottom: 0rem;
+}
+
+.title-details p {
+    font-size: 1rem;
+    margin-top: 0.2rem;
+    padding-left: 0.5rem;
+    color: darkgray;
+}
+
+.other-details {
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.5rem;
+}
+
+.headings {
+    font-size: 1rem;
+    white-space: nowrap;
+}
+
+.divider {
+    border-left: 2px solid black;
+    margin: 0 1rem;
+}
